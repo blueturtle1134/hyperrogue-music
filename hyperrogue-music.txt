@@ -81,7 +81,7 @@
 # Clearing [44]
 [44] */hr3-jungle.ogg
 # Haunted [45]
-[45] */hr3-graveyard.ogg
+[45] */hcs-slow-desert.ogg
 # Windy Plains [48]
 [48] */hr-savino-ivory.ogg
 # Rose Garden [49]
@@ -105,7 +105,7 @@
 # Halloween [59]
 [59] */hr3-graveyard.ogg
 # Dungeon [60]
-[60] */hr-savino-palace.ogg
+[60] */hcs-mq-double-ivory.ogg
 # Lost Mountain [61]
 [61] */hr3-rlyeh.ogg
 # Reptiles [62]
@@ -159,4 +159,5 @@ HyperRogue soundtrack under the Creative Commons BY-SA 3.0 license, http://creat
 Crossroads, Graveyard, Land of Eternal Motion, Hall of Mirrors, Hell, R'Lyeh, Living Caves, Jungle, Desert, Icy Lands by Shawn Parrotte (http://www.shawnparrotte.com)
 Caribbean, Ivory Tower, Ocean, Palace by Will Savino (http://www.willsavino.net/)
 
-
+HyperRogue Community Soundtrack credits:
+"Double Ivory" (Dungeon), "Slow Desert" (Burial Grounds) by MegaQuack
