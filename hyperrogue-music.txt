@@ -81,7 +81,7 @@
 # Clearing [44]
 [44] */hr3-jungle.ogg
 # Haunted [45]
-[45] */hcs-slow-desert.ogg
+[45] */hcs-mq-slow-desert.ogg
 # Windy Plains [48]
 [48] */hr-savino-ivory.ogg
 # Rose Garden [49]
