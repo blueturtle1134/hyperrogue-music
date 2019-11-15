@@ -77,9 +77,9 @@
 # Storms [42]
 [42] */hr3-laboratory.ogg
 # Overgrown [43]
-[43] */hr3-jungle.ogg
+[43] */hcs-macleod-exoticbattle.ogg
 # Clearing [44]
-[44] */hr3-jungle.ogg
+[44] */hcs-macleod-exoticbattle.ogg
 # Haunted [45]
 [45] */hcs-mq-slow-desert.ogg
 # Windy Plains [48]
@@ -161,3 +161,7 @@ Caribbean, Ivory Tower, Ocean, Palace by Will Savino (http://www.willsavino.net/
 
 HyperRogue Community Soundtrack credits:
 "Double Ivory" (Dungeon), "Slow Desert" (Burial Grounds) by MegaQuack
+
+"Exotic Battle" (Overgrown Woods, Clearing) by Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
